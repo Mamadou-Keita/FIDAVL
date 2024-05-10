@@ -37,6 +37,11 @@ To evaluate FIDAVL, we consider the synthetic images from both GANs and diffusio
 * DMs dataset
 
   For the DMs dataset, we utilize 7 types of SOTA DMs, including LDM, ADM, DDPM, IDDPM, PNDM, and Stable Diffusion v1.4 and GLIDE.
+  
+## Acknowledgement
+
+This project is built on the open source repository [AntifakePrompt](https://github.com/nctu-eva-lab/antifakeprompt).
+Thanks them for their well-organized code!
 
 ## Citation
 
