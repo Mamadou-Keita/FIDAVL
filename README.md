@@ -12,7 +12,7 @@ We are working hard on following items.
 - [ ] Release inference scripts
 - [ ] Release checkpoints
 
-![FIDAVL Structure]("model structure")
+![FIDAVL Structure](./assets/approach.png" model structure")
 
 ## Citation
 
