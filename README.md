@@ -18,7 +18,7 @@ We are working hard on following items.
 
 In this paper, we study the problem of synthetic image (e.g., GANs and diffusion models generated images) detection and attribution.
 
-![FIDAVL Structure](assets/FIDAVL_.png "model structure")
+![FIDAVL Structure](assets/approach.png "model structure")
 
 we introduce FIDAVL, a novel and efficient multitask method designed to detect and attribute fake images to their respective source models. Leveraging a vision-language approach, FIDAVL exploits the synergies between vision and language along with soft prompt-tuning strategy to accurately detect and assign generated images to their originating source generators.
 
