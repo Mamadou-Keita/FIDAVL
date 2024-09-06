@@ -7,7 +7,7 @@ This repository is an official implementation of the ICPR 2024 paper "[FIDAVL: F
 ### TODO
 We are working hard on following items.
 
-- [ ] Release [arXiv paper](https://arxiv.org/abs/)
+  ✅ Release [arXiv paper](http://arxiv.org/abs/2409.03109)
 - [ ] Release training scripts
 - [ ] Release inference scripts
 - [ ] Release checkpoints
