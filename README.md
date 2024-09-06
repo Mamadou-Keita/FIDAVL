@@ -1,6 +1,6 @@
 # FIDAVL: Fake Image Detection and Attribution using Vision-Language Model
 
-This repository is an official implementation of the ICPR 2024 paper "[FIDAVL: Fake Image Detection and Attribution using Vision-Language Model](https://arxiv.org/abs/)".
+This repository is an official implementation of the ICPR 2024 paper "[FIDAVL: Fake Image Detection and Attribution using Vision-Language Model](http://arxiv.org/abs/2409.03109)".
 
 ☀️ If you find this work useful for your research, please kindly star our repo and cite our paper! ☀️
 
