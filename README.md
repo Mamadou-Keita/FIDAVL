@@ -46,7 +46,10 @@ Thanks them for their well-organized code!
 ## Citation
 
 ```bibtex
-@{
-
+@article{keita2024fidavl,
+  title={FIDAVL: Fake Image Detection and Attribution using Vision-Language Model},
+  author={Keita, Mamadou and Hamidouche, Wassim and Eutamene, Hessen Bougueffa and Taleb-Ahmed, Abdelmalik and Hadid, Abdenour},
+  journal={arXiv preprint arXiv:2409.03109},
+  year={2024}
 }
 ```
